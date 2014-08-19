@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"version": "3",
+	"name": "Freya Theme for Google Chrome (Classic Colors)",
+	"description": "An elementary Freya -like Theme for Google Chrome with more classic Chrome colors.",
+	"icons": {
+		"16": "icon.png",
+		"32": "icon.png",
+		"48": "icon.png",
+		"128": "icon.png"
+	},
+	"theme": {
+		"images": {
+			"theme_frame": "theme_frame.png",
+			"theme_toolbar": "theme_toolbar.png"
+		}
+	}
+}
