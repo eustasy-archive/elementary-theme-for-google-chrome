@@ -2,7 +2,7 @@
 
 ### Installation
 
-[Freya Theme for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd)
+[Freya Theme for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd)  
 [elementary Freya Scrollbar for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/elementary-freya-scrollba/dddhhloahgkhcaipmkfjngdalegmcomm)
 
 ##### Note: Screenshots are out of date.
