@@ -3,7 +3,6 @@
 ### Installation 
 
 [Freya Theme for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd)  
-[Freya Theme for Google Chrome with Classic Colors on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-classic-color/aabnndoiofgmhennfbcmoapojieflllb)  
 [elementary Freya Scrollbar for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/elementary-freya-scrollba/dddhhloahgkhcaipmkfjngdalegmcomm)  
 
 The main difference with classic colors is it doesn't override the blue loading circle. I like the blue loading circle.
