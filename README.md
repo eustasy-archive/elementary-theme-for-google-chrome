@@ -1,19 +1,19 @@
 ## Freya Theme for Google Chrome
 
-### Installation 
+### Installation
 
-[Freya Theme for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd)  
-[elementary Freya Scrollbar for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/elementary-freya-scrollba/dddhhloahgkhcaipmkfjngdalegmcomm)  
+[Freya Theme for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/freya-theme-for-google-ch/nofpaaefcomkhdkeihhnonlmhajfadgd)
+[elementary Freya Scrollbar for Google Chrome on the Chrome Web Store](https://chrome.google.com/webstore/detail/elementary-freya-scrollba/dddhhloahgkhcaipmkfjngdalegmcomm)
 
-The main difference with classic colors is it doesn't override the blue loading circle. I like the blue loading circle.
+##### Note: Screenshots are out of date.
 
 ![Texte alternatif](https://raw.githubusercontent.com/eustasy/freya-theme-for-google-chrome/master/screenshots/freya-look.png "Freya Theme for Google Chrome")
 
-### Before
+#### Before
 
 ![Texte alternatif](https://raw.githubusercontent.com/eustasy/freya-theme-for-google-chrome/master/screenshots/google-chrome-before.png "Before")
 
-### After
+#### After
 
 ![Texte alternatif](https://raw.githubusercontent.com/eustasy/freya-theme-for-google-chrome/master/screenshots/google-chrome-after.png "After")
 
