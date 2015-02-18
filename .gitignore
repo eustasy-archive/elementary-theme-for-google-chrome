@@ -1,6 +1,2 @@
-freya-scrollbar-for-google-chrome.zip
-freya-scrollbar-for-google-chrome.pem
-freya-theme-for-google-chrome.zip
-freya-theme-for-google-chrome.pem
-freya-theme-for-google-chrome-classic.zip
-freya-theme-for-google-chrome-classic.pem
+*.zip
+*.pem
