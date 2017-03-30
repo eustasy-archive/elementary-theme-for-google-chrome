@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"version": "3.2",
-	"name": "Freya Theme for Google Chrome",
-	"description": "An elementary Freya -like Theme for Google Chrome.",
+	"name": "elementary OS Theme for Google Chrome",
+	"description": "An elementary OS -like Theme for Google Chrome.",
 	"icons": {
 		"16": "icon.png",
 		"32": "icon.png",
