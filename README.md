@@ -1,8 +1,4 @@
-## elementary OS Theme for Google Chrome
-
-[![Build Status](https://travis-ci.org/eustasy/elementary-theme-for-google-chrome.svg?branch=master)](https://travis-ci.org/eustasy/elementary-theme-for-google-chrome)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4be09cd1bf734dffaaf5c04c3675a626)](https://www.codacy.com/app/lewisgoddard/elementary-theme-for-google-chrome?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=eustasy/elementary-theme-for-google-chrome&amp;utm_campaign=Badge_Grade)
-[![Code Climate](https://codeclimate.com/github/eustasy/elementary-theme-for-google-chrome/badges/gpa.svg)](https://codeclimate.com/github/eustasy/elementary-theme-for-google-chrome)
+# elementary OS Theme for Google Chrome
 
 ### Installation
 
